@@ -22,7 +22,7 @@ h2 {
 
 main {
     background: white;
-    width: 80%;
+    width: clapm(80%, 80%,80%) ;
 }
   
 
